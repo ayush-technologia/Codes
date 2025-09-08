@@ -1,10 +1,11 @@
 //Checking the character is a digit/lower case/upper case/special symbol
+
 #include <stdio.h>
 #include <conio.h>
 void main()
 {
 char ch;
-
+clrscr();
 printf("Enter any character value: ");
 scanf("%c",&ch);
 if (ch>='A' && ch<='Z')
