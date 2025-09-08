@@ -16,5 +16,3 @@ else if (x==0)
 {printf("%d is non-negative & non positive number i.e. zero.",x);}
 getch();
 }
-
-
